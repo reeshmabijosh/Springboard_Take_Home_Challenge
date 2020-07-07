@@ -1,2 +1,2 @@
-# sspringboard_Take_Home_Challenge
+# Springboard_Take_Home_Challenge
 Take_Home_Challenge
